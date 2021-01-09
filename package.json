@@ -1,0 +1,28 @@
+{
+  "name": "express_server_for_emergencies",
+  "version": "1.0.0",
+  "description": "Express server in case I need one to test stuff",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragonfist453/express_server_for_emergencies.git"
+  },
+  "keywords": [
+    "Express",
+    "Node",
+    "REST"
+  ],
+  "author": "Ambu Karthik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dragonfist453/express_server_for_emergencies/issues"
+  },
+  "homepage": "https://github.com/dragonfist453/express_server_for_emergencies#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
